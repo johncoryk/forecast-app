@@ -15,7 +15,7 @@ function App() {
     e.preventDefault();
     if (currentCity && currentCountry) {
       const apiCall = await fetch(
-        `http://api.openweathermap.org/data/2.5/weather?q=${currentCity},${currentCountry}&APPID=${API_KEY}`
+        `https://api.openweathermap.org/data/2.5/weather?q=${currentCity},${currentCountry}&APPID=${API_KEY}`
       );
       if (apiCall.ok) {
         const data = await apiCall.json();
