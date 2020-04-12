@@ -7,7 +7,7 @@ import Layout from './components/layout';
 function App() {
   const [weatherData, setWeatherData] = useState([]);
 
-  const API_KEY = `${process.env.REACT_APP_WEATHER_API}`;
+  const API_KEY = 'cd77e7a0bc0e390080f65cc050a73adf';
 
   const getWeather = async (e) => {
     const currentCity = e.target.city.value;
