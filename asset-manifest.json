@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/johncoryk/forecast-app.git/static/css/main.b07ecc7a.chunk.css",
-    "main.js": "/johncoryk/forecast-app.git/static/js/main.adee9c15.chunk.js",
-    "main.js.map": "/johncoryk/forecast-app.git/static/js/main.adee9c15.chunk.js.map",
-    "runtime-main.js": "/johncoryk/forecast-app.git/static/js/runtime-main.6b65f1f4.js",
-    "runtime-main.js.map": "/johncoryk/forecast-app.git/static/js/runtime-main.6b65f1f4.js.map",
-    "static/js/2.44a58fcd.chunk.js": "/johncoryk/forecast-app.git/static/js/2.44a58fcd.chunk.js",
-    "static/js/2.44a58fcd.chunk.js.map": "/johncoryk/forecast-app.git/static/js/2.44a58fcd.chunk.js.map",
-    "index.html": "/johncoryk/forecast-app.git/index.html",
-    "precache-manifest.e10e471ee1a0afbea882042cb24cb2f1.js": "/johncoryk/forecast-app.git/precache-manifest.e10e471ee1a0afbea882042cb24cb2f1.js",
-    "service-worker.js": "/johncoryk/forecast-app.git/service-worker.js",
-    "static/css/main.b07ecc7a.chunk.css.map": "/johncoryk/forecast-app.git/static/css/main.b07ecc7a.chunk.css.map",
-    "static/js/2.44a58fcd.chunk.js.LICENSE.txt": "/johncoryk/forecast-app.git/static/js/2.44a58fcd.chunk.js.LICENSE.txt"
+    "main.css": "/forecast-app/static/css/main.b07ecc7a.chunk.css",
+    "main.js": "/forecast-app/static/js/main.87dfc6c2.chunk.js",
+    "main.js.map": "/forecast-app/static/js/main.87dfc6c2.chunk.js.map",
+    "runtime-main.js": "/forecast-app/static/js/runtime-main.cb8bcd94.js",
+    "runtime-main.js.map": "/forecast-app/static/js/runtime-main.cb8bcd94.js.map",
+    "static/js/2.44a58fcd.chunk.js": "/forecast-app/static/js/2.44a58fcd.chunk.js",
+    "static/js/2.44a58fcd.chunk.js.map": "/forecast-app/static/js/2.44a58fcd.chunk.js.map",
+    "index.html": "/forecast-app/index.html",
+    "precache-manifest.cce02984c5c9cdadd7f2f81db7a38868.js": "/forecast-app/precache-manifest.cce02984c5c9cdadd7f2f81db7a38868.js",
+    "service-worker.js": "/forecast-app/service-worker.js",
+    "static/css/main.b07ecc7a.chunk.css.map": "/forecast-app/static/css/main.b07ecc7a.chunk.css.map",
+    "static/js/2.44a58fcd.chunk.js.LICENSE.txt": "/forecast-app/static/js/2.44a58fcd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6b65f1f4.js",
+    "static/js/runtime-main.cb8bcd94.js",
     "static/js/2.44a58fcd.chunk.js",
     "static/css/main.b07ecc7a.chunk.css",
-    "static/js/main.adee9c15.chunk.js"
+    "static/js/main.87dfc6c2.chunk.js"
   ]
 }
