@@ -1,0 +1,34 @@
+.form {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: -1rem auto 0;
+  flex-wrap: wrap;
+  align-items: flex-start;
+
+  button {
+    transition: all ease 100ms;
+    padding: 1.5px 50px;
+    border-radius: 5px;
+
+    &:hover {
+      cursor: pointer;
+      transform: scale(1.05);
+    }
+  }
+}
+
+.inputs {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 0 0 1.4rem;
+  border-radius: 5px;
+
+  input {
+    max-width: 500px;
+    &:first-child {
+      margin-right: 1rem;
+    }
+  }
+}

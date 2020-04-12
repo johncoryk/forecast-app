@@ -1,0 +1,9 @@
+a {
+  color: rgb(0, 139, 219);
+  text-decoration: none;
+  transition: all ease 200ms;
+
+  &:hover {
+    color: #eee;
+  }
+}

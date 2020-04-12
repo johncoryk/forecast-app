@@ -1,0 +1,26 @@
+.card-container {
+  margin: 0 auto 1rem;
+  max-width: 600px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.icon {
+  font-size: 20rem;
+  margin: -2rem auto;
+}
+
+.temp {
+  font-size: 5rem;
+}
+
+.error {
+  margin-top: 8rem;
+  color: orangered;
+  font-size: 1.2rem;
+}
+
+.cityCountry {
+  padding-top: 20px;
+}
